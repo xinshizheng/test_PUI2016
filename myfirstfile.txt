@@ -1,5 +1,3 @@
 Hello!
-whateve
-
-whatever
-this is gonna go wrong...
+Whatever
+This is gonna go wrong...
